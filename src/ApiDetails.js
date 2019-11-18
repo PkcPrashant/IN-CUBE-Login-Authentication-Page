@@ -9,7 +9,7 @@ export const GITHUB_CLIENT_SECRET = 'c48a8c89c103f96499cd5217f5fc81a2953762ea';
 export const LINKEDIN_CLIENT_ID = '86ogqcavau6buk';
 export const LINKEDIN_CLIENT_SECRET = 'Hk7WnOhlnROLakU5';
 
-export const REDIRECT_URI = 'http://localhost:3000';
+export const REDIRECT_URI = 'https://pkcprashant.github.io/IN-CUBE-Login-Authentication-Page/';
 
 export const CORS_URL = 'https://cors-anywhere.herokuapp.com/';
 
