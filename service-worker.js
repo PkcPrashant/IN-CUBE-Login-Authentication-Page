@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IN-CUBE-Login-Authentication-Page/precache-manifest.24144ff839be50e5b3be9a05066fc944.js"
+  "/IN-CUBE-Login-Authentication-Page/precache-manifest.544dde8e8a56ab544c5a2416703156ec.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29e2f0aa49ac4523d7ca136336fbeb40",
+    "revision": "579402462fc8debf88750b9fe1124cf7",
     "url": "/IN-CUBE-Login-Authentication-Page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IN-CUBE-Login-Authentication-Page/static/css/2.fd83e43b.chunk.css"
   },
   {
-    "revision": "eff650374d2f8483d4c1",
+    "revision": "b32a9613e585829cdf27",
     "url": "/IN-CUBE-Login-Authentication-Page/static/css/main.50e0d94b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IN-CUBE-Login-Authentication-Page/static/js/2.f12bab35.chunk.js"
   },
   {
-    "revision": "eff650374d2f8483d4c1",
-    "url": "/IN-CUBE-Login-Authentication-Page/static/js/main.a5dbcf91.chunk.js"
+    "revision": "b32a9613e585829cdf27",
+    "url": "/IN-CUBE-Login-Authentication-Page/static/js/main.9e6aeec3.chunk.js"
   },
   {
     "revision": "e79a59f7a6f6fecdb6ba",
