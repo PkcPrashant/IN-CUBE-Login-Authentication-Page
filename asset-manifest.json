@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IN-CUBE-Login-Authentication-Page/static/css/main.50e0d94b.chunk.css",
-    "main.js": "/IN-CUBE-Login-Authentication-Page/static/js/main.dc5b8b32.chunk.js",
-    "main.js.map": "/IN-CUBE-Login-Authentication-Page/static/js/main.dc5b8b32.chunk.js.map",
+    "main.js": "/IN-CUBE-Login-Authentication-Page/static/js/main.a5dbcf91.chunk.js",
+    "main.js.map": "/IN-CUBE-Login-Authentication-Page/static/js/main.a5dbcf91.chunk.js.map",
     "runtime-main.js": "/IN-CUBE-Login-Authentication-Page/static/js/runtime-main.a2938402.js",
     "runtime-main.js.map": "/IN-CUBE-Login-Authentication-Page/static/js/runtime-main.a2938402.js.map",
     "static/css/2.fd83e43b.chunk.css": "/IN-CUBE-Login-Authentication-Page/static/css/2.fd83e43b.chunk.css",
     "static/js/2.f12bab35.chunk.js": "/IN-CUBE-Login-Authentication-Page/static/js/2.f12bab35.chunk.js",
     "static/js/2.f12bab35.chunk.js.map": "/IN-CUBE-Login-Authentication-Page/static/js/2.f12bab35.chunk.js.map",
     "index.html": "/IN-CUBE-Login-Authentication-Page/index.html",
-    "precache-manifest.90d511bcf3f45d05ab27e31f107c7f8e.js": "/IN-CUBE-Login-Authentication-Page/precache-manifest.90d511bcf3f45d05ab27e31f107c7f8e.js",
+    "precache-manifest.24144ff839be50e5b3be9a05066fc944.js": "/IN-CUBE-Login-Authentication-Page/precache-manifest.24144ff839be50e5b3be9a05066fc944.js",
     "service-worker.js": "/IN-CUBE-Login-Authentication-Page/service-worker.js",
     "static/css/2.fd83e43b.chunk.css.map": "/IN-CUBE-Login-Authentication-Page/static/css/2.fd83e43b.chunk.css.map",
     "static/css/main.50e0d94b.chunk.css.map": "/IN-CUBE-Login-Authentication-Page/static/css/main.50e0d94b.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.fd83e43b.chunk.css",
     "static/js/2.f12bab35.chunk.js",
     "static/css/main.50e0d94b.chunk.css",
-    "static/js/main.dc5b8b32.chunk.js"
+    "static/js/main.a5dbcf91.chunk.js"
   ]
 }
