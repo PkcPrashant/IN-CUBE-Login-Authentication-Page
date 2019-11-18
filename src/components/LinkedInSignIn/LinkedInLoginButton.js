@@ -14,7 +14,7 @@ const LinkedInLoginButton = ({handleSuccess, handleFailure}) => {
             scope='r_liteprofile'
             onFailure={handleFailure}
             onSuccess={handleSuccess}
-            redirectUri={REDIRECT_URI+'/linkedin'}
+            redirectUri='https://pkcprashant.github.io/IN-CUBE-Login-Authentication-Page/linkedin'
             renderElement={renderProps => (
                 <MyLinkedIn onClick={renderProps.onClick} style={ButtonStyles}>SIGNUP WITH LINKEDIN</MyLinkedIn>
                 )}
