@@ -10,6 +10,7 @@ const LinkedInLogin = ({isUserSignedIn, changeSignInState}) => {
 
   const handleSuccess = async(data) => {
     const code = data.code;
+    console.log('Code ',code);
     if(code){
       const get_access_token = await fetch(`${CORS_URL}https://www.linkedin.com/oauth/v2/accessToken?client_id=${LINKEDIN_CLIENT_ID}&client_secret=${LINKEDIN_CLIENT_SECRET}&grant_type=authorization_code&redirect_uri=${REDIRECT_URI}/linkedin&code=${code}`);
       const access_token = (await get_access_token.json()).access_token;

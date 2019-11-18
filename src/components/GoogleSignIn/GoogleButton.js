@@ -9,18 +9,21 @@ const GoogleButton = ({isUserSignedIn, changeSignInStatus}) => {
     const [ user, setUser ] = useState('');
 
     const handleSuccess = (response) => {
+        console.log('Success')
         setIsSignedIn(true);
         changeSignInStatus(() => 'google');
         setUser(response.profileObj);
     }
 
     const handleFailure = (response) => {
+        console.log('Failure')
         setIsSignedIn(false);
         changeSignInStatus(() => 'none');
         setUser('');
     }
 
     const handleLogout = () => {
+        console.log('Log out')
         setIsSignedIn(false);
         changeSignInStatus(() => 'none');
         setUser('');
